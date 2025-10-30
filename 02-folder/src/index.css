@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #373535;
+}
+
+.nav {
+  padding-left: 20px;
+  color: rgb(0, 89, 255);
+  background-color: aquamarine;
+}
+
+.card {
+  background-color: rgb(198, 50, 75);
+  border-radius: 10px;
+  margin: 100px;
+  margin-top: 50px;
+  padding: 20px;
+}

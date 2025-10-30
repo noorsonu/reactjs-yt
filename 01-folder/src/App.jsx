@@ -1,9 +1,10 @@
+import Card from "../../02-folder/src/components/Card"
+
 const App = () => {
   return (
-    <div>
-      <h1>Hello</h1>
-      <h3>Noor</h3>
-    </div>
+    <>
+      <Card />
+    </>
   )
 }
 
